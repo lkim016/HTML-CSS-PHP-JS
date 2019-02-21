@@ -1,0 +1,57 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	padding: 3em;
+
+	//border: 1px solid black;
+}
+
+li {
+	padding-left: 1em;
+
+	list-style-type: none;
+
+	//border: 1px solid pink;
+}
+
+.customer {
+	padding: 1.5em 3em;
+
+	//border: 1px solid black;
+}
+
+section {
+	padding: 1.5em 3em;
+
+	//border: 1px solid yellow;
+}
+
+table {
+	border-collapse: collapse;
+	
+	//border: 1px solid black;
+}
+
+tr {
+
+}
+
+td {
+	width: 150px;
+	padding: 15px 20px;
+
+	text-align: center;
+
+	border-width: 1px;
+	border-style:solid;
+	border-color: black;
+}
+
+#quantity input {
+	width: 3em;
+
+	text-align: center;
+}
